@@ -2,7 +2,7 @@ class Solution {
     
     // HimanshuSingh924
     public List<Integer> addToArrayForm(int[] num, int k) {
-        List<Integer> res = new ArrayList<>();
+        List<Integer> res = new LinkedList<>();
 
         int i = num.length - 1;
 
@@ -13,11 +13,11 @@ class Solution {
 				k += num[i];
 				i--;
 			}
-			res.add(k % 10);
+			res.addFirst(k % 10);
 			k /= 10;
 		}
 
-		Collections.reverse(res);
+		// Collections.reverse(res);
 		return res;
     }
 }
