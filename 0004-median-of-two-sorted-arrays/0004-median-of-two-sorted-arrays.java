@@ -1,4 +1,5 @@
 class Solution {
+    // HimanshuSingh924
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         // Handle empty array cases
         if (nums1.length == 0) return medianOfSingleArray(nums2);
