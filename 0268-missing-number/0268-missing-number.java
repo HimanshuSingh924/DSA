@@ -12,7 +12,7 @@ class Solution {
             actualSum += num;
         }
 
-        System.gc();
+        // System.gc();
         // return expectedSum - actualSum;
         return ((nums.length * (nums.length + 1))/2) - actualSum;
     }
