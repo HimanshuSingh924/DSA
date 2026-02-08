@@ -59,4 +59,16 @@
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/HimanshuSingh924/DSA/tree/master/3634-minimum-removals-to-balance-array) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
