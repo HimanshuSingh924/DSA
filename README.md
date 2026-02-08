@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuSingh924/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HimanshuSingh924/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/HimanshuSingh924/DSA/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HimanshuSingh924/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0110-balanced-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/HimanshuSingh924/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
