@@ -24,11 +24,13 @@
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HimanshuSingh924/DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/HimanshuSingh924/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuSingh924/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
+| [3719-longest-balanced-subarray-i](https://github.com/HimanshuSingh924/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HimanshuSingh924/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/HimanshuSingh924/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,4 +102,9 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HimanshuSingh924/DSA/tree/master/0238-product-of-array-except-self) |
+| [3719-longest-balanced-subarray-i](https://github.com/HimanshuSingh924/DSA/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/HimanshuSingh924/DSA/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
