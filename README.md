@@ -22,6 +22,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuSingh924/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/HimanshuSingh924/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/HimanshuSingh924/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HimanshuSingh924/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/HimanshuSingh924/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HimanshuSingh924/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
