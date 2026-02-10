@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/HimanshuSingh924/DSA/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1518-water-bottles](https://github.com/HimanshuSingh924/DSA/tree/master/1518-water-bottles) |
 ## Simulation
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/HimanshuSingh924/DSA/tree/master/3719-longest-balanced-subarray-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/HimanshuSingh924/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
