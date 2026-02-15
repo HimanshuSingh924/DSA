@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/HimanshuSingh924/DSA/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -12,6 +13,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
 | [1518-water-bottles](https://github.com/HimanshuSingh924/DSA/tree/master/1518-water-bottles) |
 ## Array
 |  |
@@ -48,6 +50,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -59,6 +62,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
