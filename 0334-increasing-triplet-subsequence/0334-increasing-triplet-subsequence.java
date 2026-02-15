@@ -1,4 +1,5 @@
 class Solution {
+    // HimanshuSingh924
     public boolean increasingTriplet(int[] nums) {
         int i = 0;
 		int a = Integer.MAX_VALUE, b = Integer.MAX_VALUE, c = Integer.MAX_VALUE;
