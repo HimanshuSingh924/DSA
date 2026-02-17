@@ -29,6 +29,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/HimanshuSingh924/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/HimanshuSingh924/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HimanshuSingh924/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/HimanshuSingh924/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
