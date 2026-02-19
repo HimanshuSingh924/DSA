@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/HimanshuSingh924/DSA/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
@@ -111,6 +112,7 @@
 | [0011-container-with-most-water](https://github.com/HimanshuSingh924/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/HimanshuSingh924/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuSingh924/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0696-count-binary-substrings](https://github.com/HimanshuSingh924/DSA/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
