@@ -25,6 +25,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HimanshuSingh924/DSA/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/HimanshuSingh924/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HimanshuSingh924/DSA/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HimanshuSingh924/DSA/tree/master/0162-find-peak-element) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HimanshuSingh924/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/HimanshuSingh924/DSA/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/HimanshuSingh924/DSA/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/HimanshuSingh924/DSA/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -96,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HimanshuSingh924/DSA/tree/master/0053-maximum-subarray) |
 | [0799-champagne-tower](https://github.com/HimanshuSingh924/DSA/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
