@@ -25,6 +25,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HimanshuSingh924/DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/HimanshuSingh924/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HimanshuSingh924/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HimanshuSingh924/DSA/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -98,12 +99,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HimanshuSingh924/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HimanshuSingh924/DSA/tree/master/0053-maximum-subarray) |
 | [0799-champagne-tower](https://github.com/HimanshuSingh924/DSA/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HimanshuSingh924/DSA/tree/master/0042-trapping-rain-water) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
@@ -129,6 +132,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/HimanshuSingh924/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/HimanshuSingh924/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/HimanshuSingh924/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HimanshuSingh924/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuSingh924/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0696-count-binary-substrings](https://github.com/HimanshuSingh924/DSA/tree/master/0696-count-binary-substrings) |
@@ -164,4 +168,8 @@
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HimanshuSingh924/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/HimanshuSingh924/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
