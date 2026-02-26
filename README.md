@@ -41,6 +41,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HimanshuSingh924/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/HimanshuSingh924/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HimanshuSingh924/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HimanshuSingh924/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/HimanshuSingh924/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -63,6 +64,7 @@
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HimanshuSingh924/DSA/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HimanshuSingh924/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/HimanshuSingh924/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/HimanshuSingh924/DSA/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HimanshuSingh924/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HimanshuSingh924/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
