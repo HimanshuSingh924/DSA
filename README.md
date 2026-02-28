@@ -31,6 +31,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HimanshuSingh924/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuSingh924/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/HimanshuSingh924/DSA/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/HimanshuSingh924/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HimanshuSingh924/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HimanshuSingh924/DSA/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/HimanshuSingh924/DSA/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/HimanshuSingh924/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/HimanshuSingh924/DSA/tree/master/0761-special-binary-string) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/HimanshuSingh924/DSA/tree/master/0179-largest-number) |
 | [0696-count-binary-substrings](https://github.com/HimanshuSingh924/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/HimanshuSingh924/DSA/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -144,6 +147,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HimanshuSingh924/DSA/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/HimanshuSingh924/DSA/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HimanshuSingh924/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
