@@ -34,6 +34,7 @@
 | [0162-find-peak-element](https://github.com/HimanshuSingh924/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuSingh924/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/HimanshuSingh924/DSA/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSingh924/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/HimanshuSingh924/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HimanshuSingh924/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -76,6 +77,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/HimanshuSingh924/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/HimanshuSingh924/DSA/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/HimanshuSingh924/DSA/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSingh924/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/HimanshuSingh924/DSA/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/HimanshuSingh924/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -92,6 +94,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/HimanshuSingh924/DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/HimanshuSingh924/DSA/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSingh924/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/HimanshuSingh924/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/HimanshuSingh924/DSA/tree/master/0761-special-binary-string) |
@@ -184,4 +187,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HimanshuSingh924/DSA/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSingh924/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSingh924/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
