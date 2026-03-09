@@ -10,11 +10,8 @@ class MinStack {
     }
     
     public void push(int val) {
-        if (main.size()==0){
+        if (main.size()==0 || min.peek()>=val){
 			min.push(val);
-		}
-		else{
-			if (min.peek()>=val) min.push(val);
 		}
         main.push(val);
     }
