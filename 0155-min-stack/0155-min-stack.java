@@ -11,13 +11,12 @@ class MinStack {
     
     public void push(int val) {
         if (main.size()==0){
-			main.push(val);
 			min.push(val);
 		}
 		else{
-			main.push(val);
 			if (min.peek()>=val) min.push(val);
 		}
+        main.push(val);
     }
     
     public void pop() {
