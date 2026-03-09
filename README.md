@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HimanshuSingh924/DSA/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/HimanshuSingh924/DSA/tree/master/0155-min-stack) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
@@ -197,4 +198,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSingh924/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/HimanshuSingh924/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
