@@ -9,8 +9,8 @@ class MyStack {
     }
     
     public void push(int x) {
-        if(main.isEmpty()) main.add(x);
-        else{
+        // if(main.isEmpty()) main.add(x);
+        // else{
             while(!main.isEmpty()){
                 helper.add(main.poll());
             }
@@ -18,20 +18,14 @@ class MyStack {
             while(!helper.isEmpty()){
                 main.add(helper.poll());
             }
-        }
+        //}
     }
     
-    public int pop() {
-        return main.poll();
-    }
+    public int pop() { return main.poll(); }
     
-    public int top() {
-        return main.peek();
-    }
+    public int top() { return main.peek(); }
     
-    public boolean empty() {
-        return main.isEmpty();
-    }
+    public boolean empty() { return main.isEmpty(); }
 }
 
 /**
