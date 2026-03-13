@@ -38,6 +38,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSingh924/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/HimanshuSingh924/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuSingh924/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HimanshuSingh924/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HimanshuSingh924/DSA/tree/master/0704-binary-search) |
@@ -70,6 +71,7 @@
 | [0162-find-peak-element](https://github.com/HimanshuSingh924/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuSingh924/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuSingh924/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HimanshuSingh924/DSA/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HimanshuSingh924/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -90,6 +92,7 @@
 | [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/HimanshuSingh924/DSA/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuSingh924/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/HimanshuSingh924/DSA/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/HimanshuSingh924/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sorting
@@ -155,6 +158,7 @@
 | [0042-trapping-rain-water](https://github.com/HimanshuSingh924/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HimanshuSingh924/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuSingh924/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuSingh924/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/HimanshuSingh924/DSA/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
