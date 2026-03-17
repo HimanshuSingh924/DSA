@@ -115,6 +115,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/HimanshuSingh924/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/HimanshuSingh924/DSA/tree/master/0179-largest-number) |
 | [0696-count-binary-substrings](https://github.com/HimanshuSingh924/DSA/tree/master/0696-count-binary-substrings) |
