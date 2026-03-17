@@ -1,29 +1,24 @@
 class Solution {
-
     // HimanshuSingh924
     public int lengthOfLastWord(String s) {
         
-        // String[] str = s.split("\\s+");
-        
-        // String lastWord = str[str.length-1];
+        System.out.println("s : "+s.toString());
 
-        // int length = lastWord.length();
+		String str = s.trim();
+		System.out.println("Str : "+str.toString());
 
-        // return length;
+		int length = 0;
+		for (int i = str.length()-1; i >= 0; i--){
+			if (str.charAt(i) != ' ') {
+				length++;
+			}
+			else {
+				break;
+			}
+		}
 
-        String[] word = java.util.Arrays
-							.stream(
-								s.trim()
-								 .split("\\s+"))
-							.toArray(
-								String[]::new);
-
-		System.out.println(java.util.Arrays.toString(word));
-
-		int length = word[word.length-1].length();
-		
 		System.out.println(length);
 
-        return length;
+		return length;
     }
 }
