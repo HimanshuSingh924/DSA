@@ -5,8 +5,10 @@ class Solution {
         
         String[] str = s.split("\\s+");
         
-        int ans = str[str.length-1].length();
+        String lastWord = str[str.length-1];
 
-        return ans;
+        int length = lastWord.length();
+
+        return length;
     }
 }
