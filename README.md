@@ -236,4 +236,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuSingh924/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/HimanshuSingh924/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
