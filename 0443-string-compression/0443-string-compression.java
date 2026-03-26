@@ -1,5 +1,4 @@
 class Solution {
-
     // HimanshuSingh924
     public int compress(char[] chars) {
         StringBuilder sb = new StringBuilder("");
