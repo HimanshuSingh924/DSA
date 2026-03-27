@@ -120,6 +120,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/HimanshuSingh924/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/HimanshuSingh924/DSA/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/HimanshuSingh924/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/HimanshuSingh924/DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/HimanshuSingh924/DSA/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/HimanshuSingh924/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/HimanshuSingh924/DSA/tree/master/0761-special-binary-string) |
@@ -139,6 +140,7 @@
 | [0225-implement-stack-using-queues](https://github.com/HimanshuSingh924/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimanshuSingh924/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/HimanshuSingh924/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/HimanshuSingh924/DSA/tree/master/0394-decode-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
@@ -242,4 +244,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HimanshuSingh924/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/HimanshuSingh924/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
