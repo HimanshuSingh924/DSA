@@ -125,6 +125,7 @@
 | [0443-string-compression](https://github.com/HimanshuSingh924/DSA/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/HimanshuSingh924/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/HimanshuSingh924/DSA/tree/master/0761-special-binary-string) |
+| [1446-consecutive-characters](https://github.com/HimanshuSingh924/DSA/tree/master/1446-consecutive-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/HimanshuSingh924/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Dynamic Programming
