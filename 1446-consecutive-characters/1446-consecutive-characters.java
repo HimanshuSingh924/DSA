@@ -6,11 +6,12 @@ class Solution {
 			if (s.charAt(i) == s.charAt(i - 1)) {
 				System.out.println(s.charAt(i));
 				count++;
-				max = Math.max(max, count);
+				// max = Math.max(max, count);
 			}
 			else {
 				count = 1;
 			}
+            max = Math.max(max, count);
 		}
 		
 		return max;
