@@ -127,6 +127,7 @@
 | [0443-string-compression](https://github.com/HimanshuSingh924/DSA/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/HimanshuSingh924/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/HimanshuSingh924/DSA/tree/master/0761-special-binary-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HimanshuSingh924/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/HimanshuSingh924/DSA/tree/master/1446-consecutive-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/HimanshuSingh924/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -147,6 +148,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/HimanshuSingh924/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/HimanshuSingh924/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/HimanshuSingh924/DSA/tree/master/0394-decode-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HimanshuSingh924/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
@@ -190,6 +192,7 @@
 | [0316-remove-duplicate-letters](https://github.com/HimanshuSingh924/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/HimanshuSingh924/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/HimanshuSingh924/DSA/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HimanshuSingh924/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
