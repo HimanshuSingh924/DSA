@@ -14,6 +14,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/HimanshuSingh924/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/HimanshuSingh924/DSA/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/HimanshuSingh924/DSA/tree/master/1518-water-bottles) |
@@ -29,6 +30,7 @@
 | [0035-search-insert-position](https://github.com/HimanshuSingh924/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/HimanshuSingh924/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HimanshuSingh924/DSA/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/HimanshuSingh924/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/HimanshuSingh924/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HimanshuSingh924/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuSingh924/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -268,6 +270,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/HimanshuSingh924/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/HimanshuSingh924/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/HimanshuSingh924/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
