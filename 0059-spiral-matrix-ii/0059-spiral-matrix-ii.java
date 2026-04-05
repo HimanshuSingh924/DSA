@@ -12,32 +12,28 @@ class Solution {
 			// left -> right
 			for (int i = left; i <= right; i++)
 			{
-				arr[top][i] = count;
-				count++;
+				arr[top][i] = count++;
 			}
 			top++;
 
 			// top -> bottom
 			for (int i = top; i <= bottom; i++)
 			{
-				arr[i][right] = count;
-				count++;
+				arr[i][right] = count++;
 			}
 			right--;
 
 			//right -> left
 			for (int i = right; i >= left; i--)
 			{
-				arr[bottom][i] = count;
-				count++;
+				arr[bottom][i] = count++;
 			}
 			bottom--;
 
 			// bottom -> top
 			for (int i = bottom; i >= top; i--)
 			{
-				arr[i][left] = count;
-				count++;
+				arr[i][left] = count++;
 			}
 			left++;
 		}
