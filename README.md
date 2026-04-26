@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HimanshuSingh924/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/HimanshuSingh924/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HimanshuSingh924/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
@@ -268,12 +269,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HimanshuSingh924/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HimanshuSingh924/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HimanshuSingh924/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuSingh924/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HimanshuSingh924/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HimanshuSingh924/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuSingh924/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HimanshuSingh924/DSA/tree/master/0394-decode-string) |
