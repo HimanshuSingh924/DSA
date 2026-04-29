@@ -13,6 +13,7 @@
 | [0319-bulb-switcher](https://github.com/HimanshuSingh924/DSA/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1518-water-bottles](https://github.com/HimanshuSingh924/DSA/tree/master/1518-water-bottles) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuSingh924/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0394-decode-string](https://github.com/HimanshuSingh924/DSA/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HimanshuSingh924/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuSingh924/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/HimanshuSingh924/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HimanshuSingh924/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuSingh924/DSA/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuSingh924/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
