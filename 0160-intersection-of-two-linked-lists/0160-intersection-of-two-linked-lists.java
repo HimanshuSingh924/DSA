@@ -26,11 +26,9 @@ public class Solution {
 
         if(headA == null || headB == null) return null;
 
-		int sizeOfListA = size(headA);
-		int sizeOfListB = size(headB);
-		int diff = sizeOfListA - sizeOfListB;
-
-		System.out.println(sizeOfListA+"  "+sizeOfListB+"  "+diff);
+		// int sizeOfListA = size(headA);
+		// int sizeOfListB = size(headB);
+		int diff = size(headA) - size(headB);
 
 		ListNode ptr1 = headA;
 		ListNode ptr2 = headB;
