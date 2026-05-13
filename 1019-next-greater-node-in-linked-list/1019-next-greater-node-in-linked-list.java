@@ -28,10 +28,10 @@ class Solution {
                 st.pop();
             }
 
-            if(st.size() == 0) arr[ptr] = 0; 
-            else arr[ptr] = st.peek();
+            // if(st.size() == 0) arr[ptr] = 0; 
+            // else arr[ptr] = st.peek();
 
-            // arr[ptr] = (st.size() == 0) ? 0 : st.peek();
+            arr[ptr] = (st.size() == 0) ? 0 : st.peek();
 
             st.push(ele);
             ptr--;
