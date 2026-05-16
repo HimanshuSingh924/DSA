@@ -33,7 +33,6 @@ class Solution {
             dummy = dummy.next;
         }
         dummy.next = null;
-
         return ans.next;
     }
 }
