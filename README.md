@@ -182,6 +182,7 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/HimanshuSingh924/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
@@ -189,12 +190,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0110-balanced-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/HimanshuSingh924/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
@@ -331,5 +334,6 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0101-symmetric-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
