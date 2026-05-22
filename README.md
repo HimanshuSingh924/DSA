@@ -144,6 +144,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/HimanshuSingh924/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/HimanshuSingh924/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/HimanshuSingh924/DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/HimanshuSingh924/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/HimanshuSingh924/DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/HimanshuSingh924/DSA/tree/master/0443-string-compression) |
@@ -188,6 +189,7 @@
 | [0110-balanced-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HimanshuSingh924/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/HimanshuSingh924/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -196,6 +198,7 @@
 | [0101-symmetric-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HimanshuSingh924/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -206,6 +209,7 @@
 | [0110-balanced-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HimanshuSingh924/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/HimanshuSingh924/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
@@ -260,6 +264,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/HimanshuSingh924/DSA/tree/master/0401-binary-watch) |
 ## Counting
 |  |
