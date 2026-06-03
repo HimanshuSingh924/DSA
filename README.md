@@ -195,6 +195,7 @@
 | [0226-invert-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HimanshuSingh924/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -208,6 +209,7 @@
 | [0226-invert-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HimanshuSingh924/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -224,6 +226,7 @@
 | [0226-invert-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HimanshuSingh924/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
