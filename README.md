@@ -39,6 +39,7 @@
 | [0066-plus-one](https://github.com/HimanshuSingh924/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshuSingh924/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HimanshuSingh924/DSA/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuSingh924/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HimanshuSingh924/DSA/tree/master/0162-find-peak-element) |
@@ -104,6 +105,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/HimanshuSingh924/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/HimanshuSingh924/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/HimanshuSingh924/DSA/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/HimanshuSingh924/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HimanshuSingh924/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/HimanshuSingh924/DSA/tree/master/0761-special-binary-string) |
@@ -187,6 +189,7 @@
 | [0101-symmetric-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HimanshuSingh924/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HimanshuSingh924/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HimanshuSingh924/DSA/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HimanshuSingh924/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -218,6 +221,7 @@
 | [0101-symmetric-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HimanshuSingh924/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HimanshuSingh924/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HimanshuSingh924/DSA/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HimanshuSingh924/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -263,6 +267,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HimanshuSingh924/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
