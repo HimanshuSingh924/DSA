@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-
     List<Integer> inorder = new ArrayList<>();
 
     public TreeNode balanceBST(TreeNode root) {
