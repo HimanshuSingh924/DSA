@@ -206,6 +206,7 @@
 | [0617-merge-two-binary-trees](https://github.com/HimanshuSingh924/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HimanshuSingh924/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -224,6 +225,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/HimanshuSingh924/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HimanshuSingh924/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -248,6 +250,7 @@
 | [0617-merge-two-binary-trees](https://github.com/HimanshuSingh924/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HimanshuSingh924/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
@@ -290,6 +293,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HimanshuSingh924/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |
