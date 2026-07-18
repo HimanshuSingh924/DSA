@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HimanshuSingh924/DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HimanshuSingh924/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HimanshuSingh924/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuSingh924/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuSingh924/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/HimanshuSingh924/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuSingh924/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -143,6 +145,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HimanshuSingh924/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HimanshuSingh924/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/HimanshuSingh924/DSA/tree/master/0058-length-of-last-word) |
