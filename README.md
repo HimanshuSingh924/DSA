@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/HimanshuSingh924/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HimanshuSingh924/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/HimanshuSingh924/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/HimanshuSingh924/DSA/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -93,6 +94,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HimanshuSingh924/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/HimanshuSingh924/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshuSingh924/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HimanshuSingh924/DSA/tree/master/0162-find-peak-element) |
