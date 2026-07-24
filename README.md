@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/HimanshuSingh924/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HimanshuSingh924/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/HimanshuSingh924/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/HimanshuSingh924/DSA/tree/master/0319-bulb-switcher) |
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HimanshuSingh924/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HimanshuSingh924/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/HimanshuSingh924/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuSingh924/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0799-champagne-tower](https://github.com/HimanshuSingh924/DSA/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -424,4 +426,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HimanshuSingh924/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HimanshuSingh924/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
