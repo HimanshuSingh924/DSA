@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HimanshuSingh924/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HimanshuSingh924/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HimanshuSingh924/DSA/tree/master/0066-plus-one) |
