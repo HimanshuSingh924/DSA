@@ -19,6 +19,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1518-water-bottles](https://github.com/HimanshuSingh924/DSA/tree/master/1518-water-bottles) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuSingh924/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3894-traffic-signal-color](https://github.com/HimanshuSingh924/DSA/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0867-transpose-matrix](https://github.com/HimanshuSingh924/DSA/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/HimanshuSingh924/DSA/tree/master/1518-water-bottles) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/HimanshuSingh924/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3894-traffic-signal-color](https://github.com/HimanshuSingh924/DSA/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [1446-consecutive-characters](https://github.com/HimanshuSingh924/DSA/tree/master/1446-consecutive-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/HimanshuSingh924/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [3894-traffic-signal-color](https://github.com/HimanshuSingh924/DSA/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
 | ------- |
