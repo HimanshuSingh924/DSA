@@ -15,6 +15,7 @@
 | [0070-climbing-stairs](https://github.com/HimanshuSingh924/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/HimanshuSingh924/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/HimanshuSingh924/DSA/tree/master/0319-bulb-switcher) |
+| [0877-stone-game](https://github.com/HimanshuSingh924/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1518-water-bottles](https://github.com/HimanshuSingh924/DSA/tree/master/1518-water-bottles) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuSingh924/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -64,6 +65,7 @@
 | [0724-find-pivot-index](https://github.com/HimanshuSingh924/DSA/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/HimanshuSingh924/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/HimanshuSingh924/DSA/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/HimanshuSingh924/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/HimanshuSingh924/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -180,6 +182,7 @@
 | [0070-climbing-stairs](https://github.com/HimanshuSingh924/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuSingh924/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0799-champagne-tower](https://github.com/HimanshuSingh924/DSA/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/HimanshuSingh924/DSA/tree/master/0877-stone-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/HimanshuSingh924/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -436,4 +439,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HimanshuSingh924/DSA/tree/master/0070-climbing-stairs) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/HimanshuSingh924/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/HimanshuSingh924/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/HimanshuSingh924/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
