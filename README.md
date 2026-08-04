@@ -81,6 +81,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HimanshuSingh924/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HimanshuSingh924/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/HimanshuSingh924/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/HimanshuSingh924/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/HimanshuSingh924/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/HimanshuSingh924/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3719-longest-balanced-subarray-i](https://github.com/HimanshuSingh924/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/HimanshuSingh924/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HimanshuSingh924/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HimanshuSingh924/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HimanshuSingh924/DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/HimanshuSingh924/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
