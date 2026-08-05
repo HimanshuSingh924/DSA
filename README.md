@@ -162,6 +162,7 @@
 | [0013-roman-to-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HimanshuSingh924/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HimanshuSingh924/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/HimanshuSingh924/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HimanshuSingh924/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/HimanshuSingh924/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
@@ -183,6 +184,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HimanshuSingh924/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HimanshuSingh924/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HimanshuSingh924/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/HimanshuSingh924/DSA/tree/master/0070-climbing-stairs) |
@@ -341,6 +343,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HimanshuSingh924/DSA/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/HimanshuSingh924/DSA/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/HimanshuSingh924/DSA/tree/master/0401-binary-watch) |
@@ -457,4 +460,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/HimanshuSingh924/DSA/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HimanshuSingh924/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
