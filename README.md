@@ -19,6 +19,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1518-water-bottles](https://github.com/HimanshuSingh924/DSA/tree/master/1518-water-bottles) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuSingh924/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/HimanshuSingh924/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3894-traffic-signal-color](https://github.com/HimanshuSingh924/DSA/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
@@ -464,4 +465,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HimanshuSingh924/DSA/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/HimanshuSingh924/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
