@@ -9,6 +9,7 @@
 | [0007-reverse-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/HimanshuSingh924/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HimanshuSingh924/DSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HimanshuSingh924/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HimanshuSingh924/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HimanshuSingh924/DSA/tree/master/0069-sqrtx) |
@@ -188,6 +189,7 @@
 | [0022-generate-parentheses](https://github.com/HimanshuSingh924/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HimanshuSingh924/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HimanshuSingh924/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HimanshuSingh924/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuSingh924/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0799-champagne-tower](https://github.com/HimanshuSingh924/DSA/tree/master/0799-champagne-tower) |
@@ -469,4 +471,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HimanshuSingh924/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
