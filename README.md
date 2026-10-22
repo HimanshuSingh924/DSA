@@ -65,6 +65,7 @@
 | [0287-find-the-duplicate-number](https://github.com/HimanshuSingh924/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HimanshuSingh924/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HimanshuSingh924/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0565-array-nesting](https://github.com/HimanshuSingh924/DSA/tree/master/0565-array-nesting) |
 | [0704-binary-search](https://github.com/HimanshuSingh924/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/HimanshuSingh924/DSA/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/HimanshuSingh924/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -255,6 +256,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/HimanshuSingh924/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0565-array-nesting](https://github.com/HimanshuSingh924/DSA/tree/master/0565-array-nesting) |
 | [0617-merge-two-binary-trees](https://github.com/HimanshuSingh924/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuSingh924/DSA/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/HimanshuSingh924/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
